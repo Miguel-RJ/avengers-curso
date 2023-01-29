@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Redskull
-* Dr Miguel
+* Capitan América
